@@ -11,11 +11,11 @@
 
 <br>
     
-- 🔭 Former `web developer Intern`</a>**
+
 
 - 🎓 Student @ **<a href="http://www.nitjsr.ac.in/">`NIT Jamshedpur`</a>**
 
-- ⚡ I’m currently learning more about `Jetpack Compose`, `UI testing`, **<a href="https://g.dev/shashi_kt">`Android development`</a>**
+
 
 
 
@@ -96,21 +96,7 @@
 
 -----
 
-<details open> 
-  <summary><h2>📶 Github Stats and Activity</h2></summary>
 
-<br>
-
-| <a href="https://github.com/jijo-OO7"><img align="center" src="https://streak-stats.demolab.com/?user=jijo-OO7&theme=highcontrast" alt="jijo's github stats" /></a> | <a href="https://github.com/jijo-OO7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijo-OO7&theme=highcontrast" /></a> |
-| ------------- | ------------- |
-| <a href="https://github.com/jijo-OO7"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-shashi&count_private=true&theme=vision-friendly-dark&show_icons=true" alt="jijo's github stats" /></a> | <a href="https://github.com/jijo-OO7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijo-OO7&layout=compact&theme=vision-friendly-dark" /></a> |
-
-<!-- Activity Stats -->
-<!-- <a href="https://github.com/jijo-OO7"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jijo-OO7&theme=react-dark" alt="jijo's github stats" /> -->
-    
-<br>
-    
-</details>
 
 -----
 
