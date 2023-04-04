@@ -38,7 +38,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></code>
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" /></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code>
@@ -46,8 +45,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></code>
-
-<code><img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /></code>
 </p>
     
 <br>
