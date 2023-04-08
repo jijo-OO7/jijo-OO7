@@ -29,7 +29,7 @@
 -----
 
 <details open> 
-  <summary><h2>🛠️ Languages and Tools</h2></summary>
+  <summary><h2>🛠️ Languages_and_Tools</h2></summary>
 
 <br>
     
