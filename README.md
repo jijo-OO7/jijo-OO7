@@ -54,7 +54,7 @@
 -----
 
 <details open> 
-  <summary><h2>💻 Skills</h2></summary>
+  <summary><h2>💻 Things I Can Do </h2></summary>
   
 <br>
     
