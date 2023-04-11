@@ -114,7 +114,7 @@
 
     
  </a>
- <a href="mailto:sumanmandal.intro@gmailcom">
+ <a href="mailto:jijomandal2017@gmail.com">
    <img alt="Suman" src="https://img.shields.io/badge/-Gmail-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shkt03@gmail.com" />
  </a>
  
