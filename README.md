@@ -32,14 +32,14 @@
 
 
 #  Projects:
--  ## 📌 GSoC_Samurai_Bot
+-  ##  GSoC_Samurai_Bot
 
 [**GSoC_Samurai_Bot**](https://github.com/jijo-OO7/Gsoc-todo-bot.git) is a daily productivity and mentoring automation tool designed for Google Summer of Code aspirants.
 The bot ensures that the user gets one focused, actionable task every day — aligned with their GSoC preparation — sent directly to their phone via SMS.  
 It acts as both a personal mentor and a reminder system, helping you stay consistent, track progress, and make measurable strides toward open-source contributions.
 
--  **LinkedIn Comment Generator** — Chrome extension that generates mood-based responses using GPT API
--  **Data Pipeline in C++** — Scrapes, cleans, and stores structured data into SQLite
+-  ## **LinkedIn Comment Generator** — Chrome extension that generates mood-based responses using GPT API
+-  ## **Data Pipeline in C++** — Scrapes, cleans, and stores structured data into SQLite
 
 
 #  GitHub Stats:
