@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World! I'm Suman Mandal 👋🏼  
-🚀 Software Engineer | ⚙️ AI Automation Enthusiast | 💡 Innovator at Heart
+ Software Engineer  |  Innovator at Heart
 
 🎓 MCA Graduate from NIT Jamshedpur (2021–2024)  
 🏢 Ex-Associate Software Engineer at Dietary Business Intelligence  
@@ -9,9 +9,10 @@
 🌐 Currently exploring go lang and secure supply chain production  
 ⚽ Footballer  | 💬 Always up for a good challenge
 
----
+
 
 # 💻 Tech Stack:
+
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
----
+
 
 #  Projects:
 -  **[GoMeet AI](https://github.com/jijo-OO7)** — Automates Calendly meetings, proposals & B2B dashboarding with ChatGPT
@@ -32,21 +33,21 @@
 -  **Data Pipeline in C++** — Scrapes, cleans, and stores structured data into SQLite
 -  **Gsoc_Samurai_bot**- personal Gsoc coach for aspiring candidates. daily task asigner through sms leveraging twilio API
 
----
 
-# 📈 GitHub Stats:
+
+#  GitHub Stats:
 ![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jijo-OO7&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijo-OO7&layout=compact&theme=tokyonight)
 
----
 
-# 📫 Reach Me:
+
+#  Reach Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-oo7)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jijo-OO7)  
-📧 sumanmandal.reachofficial@gmail.com  
+📧 suman-dev7@proton.me 
 📞 +91 8240715898 
 
----
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jijo-OO7/jijo-OO7/output/github-snake-dark.svg" />
