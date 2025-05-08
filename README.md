@@ -3,7 +3,7 @@
 # Hello World! I'm Suman Mandal 👋🏼  
  Software Engineer  |  Innovator at Heart
 
-🎓 MCA Graduate from NIT Jamshedpur (2021–2024)  
+🎓 Computer Science Graduate from National Institute of Technology Jamshedpur 
 🏢 Ex-Associate Software Engineer at Dietary Business Intelligence  
 🧠 Passionate about building scalable backend systems & secure tools  
 🌐 Currently exploring go lang and secure supply chain production  
