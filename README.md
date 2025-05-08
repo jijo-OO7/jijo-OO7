@@ -32,11 +32,10 @@
 
 
 #  Projects:
--  **[GoMeet AI](https://github.com/jijo-OO7)** — Automates Calendly meetings, proposals & B2B dashboarding with ChatGPT
+-  **Gsoc_Samurai_bot**-The bot ensures that the user gets one focused, actionable task every day, aligned with their GSoC preparation, sent directly to their phone via SMS. 
+    It’s a productivity tool and mentor rolled into one.
 -  **LinkedIn Comment Generator** — Chrome extension that generates mood-based responses using GPT API
 -  **Data Pipeline in C++** — Scrapes, cleans, and stores structured data into SQLite
--  **Gsoc_Samurai_bot**- personal Gsoc coach for aspiring candidates. daily task asigner through sms leveraging twilio API
-
 
 
 #  GitHub Stats:
