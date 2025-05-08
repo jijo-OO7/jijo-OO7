@@ -5,9 +5,9 @@
 
 🎓 MCA Graduate from NIT Jamshedpur (2021–2024)  
 🏢 Ex-Associate Software Engineer at Dietary Business Intelligence  
-🧠 Passionate about building scalable backend systems & smart automation tools  
-🌐 Currently exploring DevOps and domain registration platforms  
-⚽ Footballer | 🎯 HackerRank 5⭐ | 💬 Always up for a good challenge
+🧠 Passionate about building scalable backend systems & secure tools  
+🌐 Currently exploring go lang and secure supply chain production  
+⚽ Footballer  | 💬 Always up for a good challenge
 
 ---
 
@@ -19,20 +19,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-# 🚀 Projects:
-- 🧠 **[GoMeet AI](https://github.com/jijo-OO7)** — Automates Calendly meetings, proposals & B2B dashboarding with ChatGPT
-- 🔎 **LinkedIn Comment Generator** — Chrome extension that generates mood-based responses using GPT API
-- 🧹 **Data Pipeline in C++** — Scrapes, cleans, and stores structured data into SQLite
-- 🌐 **Income Tax Assistant (In Progress)** — Simplifying tax for Indian citizens
+#  Projects:
+-  **[GoMeet AI](https://github.com/jijo-OO7)** — Automates Calendly meetings, proposals & B2B dashboarding with ChatGPT
+-  **LinkedIn Comment Generator** — Chrome extension that generates mood-based responses using GPT API
+-  **Data Pipeline in C++** — Scrapes, cleans, and stores structured data into SQLite
+-  **Gsoc_Samurai_bot**- personal Gsoc coach for aspiring candidates. daily task asigner through sms leveraging twilio API
 
 ---
 
