@@ -3,10 +3,14 @@
 # Hello World! I'm Suman Mandal 👋🏼  
  Software Engineer  |  Innovator at Heart
 
-🎓 CSE graduate from NIT Jamshedpur .
-🏢 Ex-Associate Software Engineer at Dietary Business Intelligence  
+🎓 CSE graduate from NIT Jamshedpur 
+
+🏢 Ex-Associate Software Engineer at Dietary Business Intelligence
+
 🧠 Passionate about building scalable backend systems & secure supply chain Architecture 
+
 🌐 Currently exploring go lang and secure supply chain production  
+
 ⚽ Footballer  | 💬 Always up for a good challenge
 
 
