@@ -1,35 +1,57 @@
-<h1 align="center">Hi, I'm Suman - Passionate Software Developer 👨‍💻</h1>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F0F0F0&width=380&height=45&lines=Skilled+in+C%2C+C%2B%2B%2C+Java%2C+Linux%2C+Git%2C+Docker%2C+Kubernetes&center=true" />
-</p>
+# Hello World! I'm Suman Mandal 👋🏼  
+🚀 Software Engineer | ⚙️ AI Automation Enthusiast | 💡 Innovator at Heart
 
-## 🤖 About Me  
-- 🎓 MCA Graduate @ **[NIT Jamshedpur](http://www.nitjsr.ac.in/)**  
-- 🔧 Passionate about software development, DevOps, and system automation  
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/suman-mandal-667329230)**  
+🎓 MCA Graduate from NIT Jamshedpur (2021–2024)  
+🏢 Ex-Associate Software Engineer at Dietary Business Intelligence  
+🧠 Passionate about building scalable backend systems & smart automation tools  
+🌐 Currently exploring DevOps and domain registration platforms  
+⚽ Footballer | 🎯 HackerRank 5⭐ | 💬 Always up for a good challenge
 
-## 🛠️ Languages and Tools  
-<p align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" /></code>
-</p>
+---
 
-## 💻 Skills  
-- 🔹 **C, C++ & Java** – Strong understanding of OOP, data structures, and algorithms  
-- 🔹 **Linux** – Command-line proficiency and system navigation  
-- 🔹 **Git** – Version control and collaboration  
-- 🔹 **Docker** – Containerization and microservices deployment  
-- 🔹 **Kubernetes** – Orchestrating containerized applications  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🙋‍♂️ Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/suman-mandal-667329230"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:jijomandal2017@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/jijo-OO7"><img alt="GitHub" src="https://img.shields.io/github/followers/jijo-OO7?label=follow&style=social"/></a>
-</p>
+---
+
+# 🚀 Projects:
+- 🧠 **[GoMeet AI](https://github.com/jijo-OO7)** — Automates Calendly meetings, proposals & B2B dashboarding with ChatGPT
+- 🔎 **LinkedIn Comment Generator** — Chrome extension that generates mood-based responses using GPT API
+- 🧹 **Data Pipeline in C++** — Scrapes, cleans, and stores structured data into SQLite
+- 🌐 **Income Tax Assistant (In Progress)** — Simplifying tax for Indian citizens
+
+---
+
+# 📈 GitHub Stats:
+![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jijo-OO7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijo-OO7&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Reach Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-oo7)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jijo-OO7)  
+📧 sumanmandal.reachofficial@gmail.com  
+📞 +91 8240715898 | +91 9635182349
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jijo-OO7/jijo-OO7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jijo-OO7/jijo-OO7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jijo-OO7/jijo-OO7/output/github-snake.svg" />
+</picture>
