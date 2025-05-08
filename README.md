@@ -4,6 +4,7 @@
  Software Engineer  |  Innovator at Heart
 
 🎓 Computer Science Graduate from National Institute of Technology Jamshedpur 
+
 🏢 Ex-Associate Software Engineer at Dietary Business Intelligence  
 🧠 Passionate about building scalable backend systems & secure tools  
 🌐 Currently exploring go lang and secure supply chain production  
