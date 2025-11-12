@@ -1,20 +1,14 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World! I'm Suman Mandal 👋🏼  
- Software Engineer  |  Innovator at Heart
+# 👋 Hello World! I'm Suman Mandal  
+**Software Engineer | Innovator at Heart**
 
-🎓 CSE graduate from NIT Jamshedpur 
+- Computer Science & Engineering graduate from **NIT Jamshedpur**  
 
-🏢 Ex-Associate Software Engineer at Dietary Business Intelligence
+- Former **Associate Software Engineer** at **Dietary Business Intelligence**  
 
-🧠 Passionate about building scalable backend systems & secure supply chain Architecture 
-
-🌐 Currently exploring go lang and secure supply chain production  
-
-⚽ Footballer  | 💬 Always up for a good challenge
-
-
-
+- Currently exploring **Go (Golang)** and advancing my expertise in **secure production environments**
+- 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
