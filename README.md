@@ -1,4 +1,7 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<p align="center">
+  <img src="banner_github.png" alt="GitHub Banner" width="100%" style="max-height: 200px; object-fit: cover;">
+</p>
+
 
 <h1 align="center">
   Hello World! I'm Suman Mandal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
