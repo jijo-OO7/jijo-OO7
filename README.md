@@ -1,14 +1,23 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# 👋 Hello World! I'm Suman Mandal  
-**Software Engineer | Innovator at Heart**
+<h1 align="center">
+  Hello World! I'm Suman Mandal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
-- Computer Science & Engineering graduate from **NIT Jamshedpur**  
+<h3 align="center">
+  Software Engineer | Innovator at Heart
+</h3>
 
-- Former **Associate Software Engineer** at **Dietary Business Intelligence**  
+<p align="center">
+   <b>Computer Science & Engineering</b> graduate from <b>NIT Jamshedpur</b>  
+  <br>
+   Former <b>Associate Software Engineer</b> at <b>Dietary Business Intelligence</b>  
+  <br>
+ Currently exploring <b>Go (Golang)</b> and advancing expertise in <b>secure production environments</b>  
+  <br>
+</p>
 
-- Currently exploring **Go (Golang)** and advancing my expertise in **secure production environments**
-- 
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
