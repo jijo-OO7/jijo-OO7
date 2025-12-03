@@ -18,11 +18,9 @@
  Currently exploring <b>Go (Golang)</b> and advancing expertise in <b>secure production environments</b>  
   <br>
 </p>
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/jijo-OO7/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=jijo-OO7&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
