@@ -2,7 +2,6 @@
   <img src="jijo-OO7.png" alt="GitHub Banner" width="100%" style="max-height: 200px; object-fit: cover;">
 </p>
 
-
 <h1 align="center">
   Hello World! I'm Suman Mandal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
@@ -20,7 +19,11 @@
   <br>
 </p>
 
-  
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jijo-OO7/count.svg" alt="Visitor Count"/>
+</p>
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
@@ -34,26 +37,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
-  
-
 </div>
 
 
-#  GitHub Stats
+# GitHub Stats
 
 ![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jijo-OO7&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jijo-OO7&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijo-OO7&layout=compact&theme=tokyonight)
 
 
-
-
-
-#  Reach Me:
+# Reach Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-oo7)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jijo-OO7)  
 📧 sumanmandal.dev@gmail.com
-
 
 
 <picture>
