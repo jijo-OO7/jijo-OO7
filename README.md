@@ -5,18 +5,6 @@
 <h1 align="center">
   Hello World! I'm Suman Mandal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
-
-<h3 align="center">
-  Software Engineer | Innovator at Heart
-</h3>
-
-<p align="center">
-   <b>Computer Science & Engineering</b> graduate from <b>NIT Jamshedpur</b>  
-  <br>
-   Former <b>Associate Software Engineer</b> at <b>Dietary Business Intelligence</b>  
-  <br>
- Currently exploring <b>Go (Golang)</b> and advancing expertise in <b>secure production environments</b>  
-  <br>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jijo-OO7&label=Profile%20Views&color=blue&style=flat-square" />
