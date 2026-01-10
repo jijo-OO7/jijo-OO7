@@ -26,12 +26,6 @@
 </div>
 
 
-# GitHub Stats
-
-![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jijo-OO7&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=jijo-OO7&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijo-OO7&layout=compact&theme=tokyonight)
-
 
 # Reach Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-oo7)  
