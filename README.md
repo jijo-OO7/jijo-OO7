@@ -23,17 +23,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
 </div>
-<div><img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jijo-OO7"
-  width="700"
-/>
-</div>
+
 
 # Reach Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-oo7)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jijo-OO7)  
 📧 sumanmandal.dev@gmail.com
-
+<div><img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jijo-OO7"
+  width="600"
+/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jijo-OO7/jijo-OO7/output/github-snake-dark.svg" />
