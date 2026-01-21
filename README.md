@@ -24,6 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jijo-OO7&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jijo-OO7&layout=compact)
 
 
 # Reach Me:
