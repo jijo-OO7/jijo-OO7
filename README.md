@@ -23,9 +23,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
 </div>
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jijo-OO7)
-
+<div><img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jijo-OO7"
+  width="700"
+/>
+</div>
 
 # Reach Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-oo7)  
