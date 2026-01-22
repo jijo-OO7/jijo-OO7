@@ -31,7 +31,7 @@
 📧 sumanmandal.dev@gmail.com
 <div><img
   src="https://github-readme-activity-graph.vercel.app/graph?username=jijo-OO7"
-  width="600"
+  width="650"
 />
 </div>
 
