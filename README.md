@@ -5,12 +5,6 @@
 <h1 align="center">
   Hello World! I'm Suman Mandal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
-<p>
-I started with core CS and systems programming, and gradually grew more interested in how cloud-native platforms are built and secured. I briefly worked with an organization early on, but chose to step away to focus on deeper learning through open source.
-Since then, I’ve been contributing to the cloud-native ecosystem, particularly around Knative—working on docs, UI fixes, linters, tests, and feature improvements. I enjoy understanding how large projects are structured and shipping changes through review and merge.
-Currently, I’m focused on strengthening my skills in Go, Kubernetes, CI/CD, and contributing meaningfully to projects that power real-world infrastructure.
-Always happy to connect and collaborate.
-</p>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jijo-OO7&label=Profile%20Views&color=blue&style=flat-square" />
