@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/jijo-OO7">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github" />
+    <img src="https://img.shields.io/badge/%20Support%20My%20Open%20Source-1a1a1a?style=for-the-badge&logo=github&logoColor=ff69b4" />
   </a>
 </p>
 <p align="center">
