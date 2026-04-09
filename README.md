@@ -7,11 +7,6 @@
 </h1>
 </p>
 <p align="center">
-  <a href="https://github.com/sponsors/jijo-OO7">
-    <img src="https://img.shields.io/badge/%20Support%20My%20Open%20Source-1a1a1a?style=for-the-badge&logo=github&logoColor=ff69b4" />
-  </a>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jijo-OO7&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
