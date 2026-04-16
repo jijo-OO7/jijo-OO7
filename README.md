@@ -27,7 +27,6 @@
 
 # Reach Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-oo7)   
-[!Blog](https://dev.to/jijo-007)
 📧 sumanmandal.dev@gmail.com
 
 
