@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hello World! I'm Suman Mandal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hello World! , I'm Suman Mandal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 </p>
 <p align="center">
