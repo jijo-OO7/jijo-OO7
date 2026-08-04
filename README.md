@@ -27,6 +27,7 @@
 
 # Reach Me:   
 📧 sumanmandal.dev@gmail.com
+LFX PROFILE :: https://openprofile.dev/profile/jijo007
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jijo-OO7/jijo-OO7/output/github-snake-dark.svg" />
