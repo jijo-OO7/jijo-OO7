@@ -44,8 +44,11 @@ Designed and shipped a multi-stage report-protection workflow in **Kubescape**, 
 - Multiple upstream contributions shipped in **Kubescape v4.0.11**
 
 📖 **[Read the full engineering case study →](https://github.com/jijo-OO7/kubescape-report-protection)**
-
 🔗 **[Original Kubescape feature request →](https://github.com/kubescape/kubescape/issues/1200)**
+
+[Offical Docs]**(https://kubescape.io/docs/scanning/#hiding-sensitive-metadata).**
+
+[Blog]**(https://kubescape.io/blog/2026/07/24/kubescape-report-metadata-protection/).**
 
 ---
 
