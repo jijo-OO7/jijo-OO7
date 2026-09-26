@@ -24,6 +24,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
 </div>
 
+<div>
+  ## 🔐 Featured Security Engineering Work
+
+### Kubescape Report Protection
+
+Designed and shipped a multi-stage report-protection workflow in **Kubescape**, evolving from deterministic anonymization of Kubernetes resource metadata into reversible encryption and decryption of sensitive report data.
+
+**Highlights:**
+- Kubernetes resource, container, and service-account anonymization
+- Repository, Git, annotation, and filesystem metadata protection
+- AES-GCM encryption and Data Encryption Key (DEK) wrapping
+- Reversible resource and container metadata transformation
+- Report decryption and CLI documentation
+- Multiple upstream contributions shipped in **Kubescape v4.0.11**
+
+📖 **[Read the full engineering case study →](https://github.com/jijo-OO7/kubescape-report-protection)**  
+🔗 **[Original Kubescape feature request →](https://github.com/kubescape/kubescape/issues/1200)**
+</div>
 
 ## Reach Me:   
 📧 sumanmandal.dev@gmail.com
