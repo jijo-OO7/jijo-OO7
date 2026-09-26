@@ -30,7 +30,7 @@
 
 ## 🔐 Featured Security Engineering Work
 
-### Kubescape Report Protection
+###  Kubescape Report Protection
 
 Designed and shipped a multi-stage report-protection workflow in **Kubescape**, evolving from deterministic anonymization of Kubernetes resource metadata into reversible encryption and decryption of sensitive report data.
 
@@ -46,6 +46,29 @@ Designed and shipped a multi-stage report-protection workflow in **Kubescape**, 
 📖 **[Read the full engineering case study →](https://github.com/jijo-OO7/kubescape-report-protection)**
 
 🔗 **[Original Kubescape feature request →](https://github.com/kubescape/kubescape/issues/1200)**
+
+---
+
+### 🔏 RegoLibrary Release Integrity
+
+Built a layered **software supply-chain release-integrity workflow** for Kubescape RegoLibrary, evolving artifact verification from SHA-256 checksums into an authenticated release-verification chain.
+
+**Highlights:**
+
+- SHA-256 verification of release artifacts
+- Explicit `ErrChecksumVerification` security boundary
+- Kubescape hard-failure behavior on checksum verification errors
+- Cosign keyless signing of the release checksum manifest
+- Sigstore bundle and signer identity verification
+- Trusted-root handling with `LiveTrustedRoot`
+- `sigstore-go` upgrade and trusted-root refresh
+- Real GitHub Release integration testing
+- Downstream consumption in **Kubescape**
+- Released in **RegoLibrary v2.0.36**
+
+📖 **[Read the full engineering case study →](https://github.com/jijo-OO7/regolibrary-release-integrity)**
+
+🔗 **[RegoLibrary v2.0.36 →](https://github.com/kubescape/regolibrary/releases/tag/v2.0.36)**
 
 ---
 
