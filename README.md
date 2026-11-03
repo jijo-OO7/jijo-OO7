@@ -76,7 +76,7 @@ Built a layered **software supply-chain release-integrity workflow** for Kubesca
 ## Reach Me
 
 📧 **sumanmandal.dev@gmail.com**
-
+🌐 **Portfolio:** [jijo-oo7.github.io](https://jijo-oo7.github.io)
 ---
 
 <picture>
